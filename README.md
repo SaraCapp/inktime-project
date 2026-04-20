@@ -1,1 +1,1 @@
-
+Schematicul meu este destul de bine organizat si se vede ca am gandit proiectul pe blocuri. Se distinge clar zona de microcontroller, partea de alimentare, zona de debug si fuel gauge-ul, ceea ce face schema mai usor de urmarit. Per total consider ca are o structura logica si se intelege destul de bine cum comunica componentele intre ele.
